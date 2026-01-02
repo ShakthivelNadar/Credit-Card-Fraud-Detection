@@ -1,5 +1,4 @@
 # Credit-Card-Fraud-Detection
-Credit Card Fraud Detection is an artificial intelligence and machine learning application that identifies fraudulent transactions in real time by analyzing customer spending behavior and transaction patterns
 Credit Card Fraud Detection
 Project Overview
 This project focuses on building a machine learning model to detect fraudulent credit card transactions. Due to the highly imbalanced nature of fraud detection datasets, special techniques like SMOTE (Synthetic Minority Over-sampling Technique) are employed to handle the class imbalance and improve model performance.
